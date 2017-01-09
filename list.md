@@ -16,6 +16,7 @@ Papers & Articles
 
 | Title  | Author | Completed | Thoughts |
 | :---------- | :------- | :-------: | :------- |
+| Add a const here, delete a const there… | 1/9/17 | B. Dawson | Bleh, more compiler divergence in C++. |
 
 
 Movies
