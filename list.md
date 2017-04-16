@@ -19,10 +19,3 @@ Papers & Articles
 | :---------- | :------- | :-------: | :------- |
 | Add a const here, delete a const there… | 1/9/17 | B. Dawson | Bleh, more compiler divergence in C++. |
 
-
-Movies
-
-| Title  | Completed | Thoughts |
-| :---------- | :-------: | :------- |
-| Dead Poets Society | 1/1/17 |  |
-| Robocop | 1/3/17 |  |
