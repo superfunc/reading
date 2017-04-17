@@ -15,7 +15,6 @@ Books
 | Pearls of Functional Algo Design | Bird | Next++++ | |
 | Basic Category Theory | Pierce | Next+N | |
 | Certified Programming with Dep Types | Chipala | Next+N+1 | |
-
 | **TBD** | | | |
 | Land of Lisp | Barski | TBD | |
 | The Seasoned Schemer | Friedman, Felleisen | TBD | |
