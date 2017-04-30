@@ -8,7 +8,7 @@ Books
 | A Byte of VIM | Swaroop | 1/3/17 | Just a nice little refresher. Great intro for new users. |
 | Effective Python | Slatkin | 1/8/17 | Useful, brisk read. Good for reference as well.|
 | Type Driven Development | Brady | 4/22/2017 | Eye-opening. Surprisingly more approachable than most Haskell books. |
-| Purely Functional Data Structures | Okasaki | Curr | |
+| Purely Functional Data Structures | Okasaki | 4/29/2017 | Great foundational book. Not particularly enlightening, since I waited forever to finish it and had experienced most of it indirectly. |
 | Software Foundations | Pierce | Next+ | |
 | Lambda Calc | Michaelson | Next++ | |
 | TAPL | Pierce | Next+++ | |
