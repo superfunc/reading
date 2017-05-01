@@ -29,3 +29,9 @@ Papers & Articles
 | All Preshing Articles | TBD | |
 | All Rygor Articles | TBD | |
 | Implementation of a Stable Texture Cache | TBD | |
+
+Talks
+
+| Title | Author | Thoughts |
+| :---------- | :------- | :-------: |
+| [Propositions as Types](https://www.youtube.com/watch?v=IOiZatlZtGU) | Wadler | A classic. |
