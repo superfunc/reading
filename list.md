@@ -9,6 +9,7 @@ Books
 | Effective Python | Slatkin | 1/8/17 | Useful, brisk read. Good for reference as well.|
 | Type Driven Development | Brady | 4/22/2017 | Eye-opening. Surprisingly more approachable than most Haskell books. |
 | Purely Functional Data Structures | Okasaki | 4/29/2017 | Great foundational book. Not particularly enlightening, since I waited forever to finish it and had experienced most of it indirectly. |
+| 97 Things Every Programmer Should Know | Various | 5/1/2017 | Brisk read; useful tidbits. |
 | Software Foundations | Pierce | Next+ | |
 | Lambda Calc | Michaelson | Next++ | |
 | TAPL | Pierce | Next+++ | |
@@ -32,6 +33,7 @@ Papers & Articles
 
 Talks
 
-| Title | Author | Thoughts |
-| :---------- | :------- | :-------: |
-| [Propositions as Types](https://www.youtube.com/watch?v=IOiZatlZtGU) | Wadler | A classic. |
+| Title | Thoughts |
+| :---------- | :-------: |
+| [Propositions as Types (Wadler)](https://www.youtube.com/watch?v=IOiZatlZtGU) | A classic. |
+| [Contributing to Swift (Nonaka)](https://www.skilled.io/u/swiftsummit/contributing-to-the-swift-compiler) | Inpiring talk about getting 'out' there.
