@@ -33,7 +33,8 @@ Papers & Articles
 
 Talks
 
-| Title | Thoughts |
-| :---------- | :-------: |
-| [Propositions as Types (Wadler)](https://www.youtube.com/watch?v=IOiZatlZtGU) | A classic. |
-| [Contributing to Swift (Nonaka)](https://www.skilled.io/u/swiftsummit/contributing-to-the-swift-compiler) | Inpiring talk about getting 'out' there.
+| Title |
+| :---------- | 
+| [Propositions as Types (Wadler)](https://www.youtube.com/watch?v=IOiZatlZtGU) |
+| [Contributing to Swift (Nonaka)](https://www.skilled.io/u/swiftsummit/contributing-to-the-swift-compiler) |
+| [State Machines All the Way Down (Brady) | https://www.idris-lang.org/drafts/sms.pdf |
