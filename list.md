@@ -27,6 +27,7 @@ Papers & Articles
 | Title  | Author | Completed | Thoughts |
 | :---------- | :------- | :-------: | :------- |
 | Add a const here, delete a const there… | 1/9/17 | B. Dawson | Bleh, more compiler divergence in C++. |
+| [State Machines All the Way Down](https://www.idris-lang.org/drafts/sms.pdf) | 5/7/17 | E. Brady | Really cool alt to Monad transformers. |
 | All Preshing Articles | TBD | |
 | All Rygor Articles | TBD | |
 | Implementation of a Stable Texture Cache | TBD | |
@@ -37,4 +38,3 @@ Talks
 | :---------- | 
 | [Propositions as Types (Wadler)](https://www.youtube.com/watch?v=IOiZatlZtGU) |
 | [Contributing to Swift (Nonaka)](https://www.skilled.io/u/swiftsummit/contributing-to-the-swift-compiler) |
-| [State Machines All the Way Down (Brady) | https://www.idris-lang.org/drafts/sms.pdf |
