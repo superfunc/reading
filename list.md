@@ -10,6 +10,7 @@ Books
 | Type Driven Development | Brady | 4/22/2017 | Eye-opening. Surprisingly more approachable than most Haskell books. |
 | Purely Functional Data Structures | Okasaki | 4/29/2017 | Great foundational book. Not particularly enlightening, since I waited forever to finish it and had experienced most of it indirectly. |
 | 97 Things Every Programmer Should Know | Various | 5/1/2017 | Brisk read; useful tidbits. |
+| Clojure Applied | Current | |
 | Software Foundations | Pierce | Next+ | |
 | Lambda Calc | Michaelson | Next++ | |
 | TAPL | Pierce | Next+++ | |
