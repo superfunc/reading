@@ -22,6 +22,7 @@ Books
 | The Seasoned Schemer | Friedman, Felleisen | TBD | |
 | Practical Common Lisp | Seibel | TBD | |
 | Let Over Lambda | Hoyte | TBD | |
+| Code | Petzold | 10/20/2017 |
 
 Papers & Articles
 
